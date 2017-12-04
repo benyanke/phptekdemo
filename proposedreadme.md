@@ -8,7 +8,7 @@ This preview contains the SQLSRV and PDO_SQLSRV drivers for PHP 7 (64-bit) with 
 
 SQL Server Team
 
-##Announcements
+## Announcements
 
 **October 25, 2016**: Linux drivers (4.0.6) compiled with PHP 7.0.12 are available for Ubuntu 15.04, Ubuntu 16.04, and RedHat 7.2. Here is the list of updates and fixes:
 
@@ -255,7 +255,7 @@ The drivers are distributed as shared binary extensions for PHP. They are availa
 - Binding output parameter using emulate prepare is not supported.
 - ODBC 3.52 is supported but not 3.8.
 
-##Known issues
+## Known issues
 
 The following items have known issues:
 - Retrieving, inserting, and binding Char, Varchar datatypes.
